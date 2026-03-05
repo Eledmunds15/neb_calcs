@@ -1,0 +1,4 @@
+LAMMPS (22 Jul 2025)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread.
+  using 1 OpenMP thread(s) per MPI task
+log data/shear_SV2E0_N9464/logs/log.lammps
